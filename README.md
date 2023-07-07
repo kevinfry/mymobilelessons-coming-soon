@@ -1,4 +1,19 @@
-# [Start Bootstrap - Coming Soon](https://startbootstrap.com/theme/coming-soon/)
+# mymobilelessons-coming-soon
+
+## Folder / File Structure
+`css/` folder to hold all or custom styles
+`img/` folder to hold images
+`js/` folder to hold custom Javascript
+`mp4/` folder to hold videos in mp4 format
+`mp4/mml-small-business-big-business.mp4` compressed video using HandBrake and removed audio.
+`index.html` default "home page" file on webservers
+
+### Icons
+Icons were assisted by a free on-line tool. [favicon.io/favicon-converter](https://favicon.io/favicon-converter/)
+
+
+# Legacy README
+## [Start Bootstrap - Coming Soon](https://startbootstrap.com/theme/coming-soon/)
 
 [Coming Soon](https://startbootstrap.com/theme/coming-soon/) is a simple coming soon theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a background video with a mobile background image fallback.
 
